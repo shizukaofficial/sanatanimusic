@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "22594671",
+        "value": "29268791",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "81f5e3ff5f42aeccb170cd294cd36a6f",
+        "value": "3fd3fc6e27cc6edd1330aa9098e19387",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,11 +34,11 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "7282263969",
+        "value": "8086588342",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @Strinng_Session_Bot on Telegram.",
         "value": "",
         "required": true
       },
@@ -49,7 +49,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "-1002453728998",
+        "value": "-1002097611820",
         "required": false
       },
       "LOGGER_ID": {
