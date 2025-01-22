@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "8086588342",
+        "value": "7710642242",
         "required": true
       },
       "STRING_SESSION": {
